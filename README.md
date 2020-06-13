@@ -7,6 +7,8 @@ workplace
 
 [一百万情节生成](https://blog.reedsy.com/plot-generator/ '一百万情节生成')
 
+[一键生成科幻情节](http://www.warpcoresf.co.uk/scifiplot2.php '一键生成科幻情节')
+
 ## 小说数据（部分）
 
 ### QQ群
