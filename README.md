@@ -22,6 +22,8 @@ QQ:3017765 群文件
 
 [transformer-xl在中文文本生成上的尝试](https://github.com/GaoPeng97/transformer-xl-Chinese "transformer-xl在中文文本生成上的尝试")
 
+[Chinese-XLNet](https://github.com/ymcui/Chinese-XLNet 'Chinese-XLNet')
+
 ## 老师分享
 
 ### 2020.6.11
