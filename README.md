@@ -4,6 +4,7 @@ workplace
 ## 可参考生成器
 
 [情节生成器](https://www.plot-generator.org.uk/ '情节生成器')
+
 [一百万情节生成](https://blog.reedsy.com/plot-generator/ '一百万情节生成')
 
 ## 小说数据（部分）
