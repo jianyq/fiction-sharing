@@ -1,6 +1,10 @@
 # fiction-sharing
 workplace
 
+## 可参考生成器
+
+[情节生成器](https://www.plot-generator.org.uk/ '情节生成器')
+
 ## 小说数据（部分）
 
 ### QQ群
