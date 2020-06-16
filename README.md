@@ -11,6 +11,10 @@ workplace
 
 ## 小说数据（部分）
 
+###资源整理
+
+[百度网盘](https://pan.baidu.com/s/1GA4gFC-DiIYV7opiszJESA '百度网盘')
+
 ### QQ群
 
 QQ:3017765 群文件
