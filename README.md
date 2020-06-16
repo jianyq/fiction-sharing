@@ -11,9 +11,9 @@ workplace
 
 ## 小说数据（部分）
 
-###资源整理
+### 资源整理
 
-[百度网盘](https://pan.baidu.com/s/1GA4gFC-DiIYV7opiszJESA '百度网盘')
+[百度网盘](https://pan.baidu.com/s/1GA4gFC-DiIYV7opiszJESA '百度网盘') 提取码：9x4c
 
 ### QQ群
 
