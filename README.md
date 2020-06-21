@@ -34,6 +34,8 @@ QQ:3017765 群文件
 
 [transformer-xl在中文文本生成上的尝试](https://github.com/GaoPeng97/transformer-xl-Chinese "transformer-xl在中文文本生成上的尝试")
 
+[GPT-3 API](https://zhuanlan.zhihu.com/p/148488261 'GPT-3 API')
+
 [Chinese-XLNet](https://github.com/ymcui/Chinese-XLNet 'Chinese-XLNet')
 
 ## 老师分享
